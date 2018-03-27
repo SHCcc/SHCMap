@@ -1,0 +1,22 @@
+{
+  "name": "SHCMap",
+  "version": "0.1.0",
+  "summary": "A short description of SHCMap.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/578013836@qq.com/SHCMap",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "578013836@qq.com": "578013836@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/578013836@qq.com/SHCMap.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SHCMap/Classes/**/*"
+}

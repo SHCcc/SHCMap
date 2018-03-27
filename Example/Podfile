@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SHCMap_Example' do
+  pod 'SHCMap', :path => '../'
+
+  target 'SHCMap_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

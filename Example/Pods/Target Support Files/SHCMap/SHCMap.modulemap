@@ -1,0 +1,6 @@
+framework module SHCMap {
+  umbrella header "SHCMap-umbrella.h"
+
+  export *
+  module * { export * }
+}

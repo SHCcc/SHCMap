@@ -7,11 +7,12 @@
 //
 
 #import "SHCAppDelegate.h"
-
+#import <AMapFoundationKit/AMapFoundationKit.h>
 @implementation SHCAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
+  [AMapServices sharedServices].apiKey = @"d14df67c0ba4add83ac8ce0a0f9d2ddd";
     // Override point for customization after application launch.
     return YES;
 }

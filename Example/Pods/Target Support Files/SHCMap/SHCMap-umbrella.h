@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "SHCMapViewController.h"
 
 FOUNDATION_EXPORT double SHCMapVersionNumber;
 FOUNDATION_EXPORT const unsigned char SHCMapVersionString[];

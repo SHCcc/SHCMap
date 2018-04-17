@@ -1,5 +1,15 @@
 PODS:
-  - SHCMap (0.1.0)
+  - AMap2DMap (5.6.0):
+    - AMapFoundation (~> 1.4)
+  - AMapFoundation (1.4.3)
+  - AMapLocation (2.6.0):
+    - AMapFoundation (~> 1.4)
+  - AMapSearch (5.7.0):
+    - AMapFoundation (~> 1.4)
+  - SHCMap (0.1.0):
+    - AMap2DMap
+    - AMapLocation
+    - AMapSearch
 
 DEPENDENCIES:
   - SHCMap (from `../`)
@@ -9,7 +19,11 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  SHCMap: 1c02e76de6319b8e7e974326f947dabf490213dc
+  AMap2DMap: cf0bfd6ae97951b55cc061903b814f924ba6c221
+  AMapFoundation: 973682cfe60b92efd73a8ef8f1144fa0fa8e1296
+  AMapLocation: 55116a2c8956eab7550cbb56e989aa5cdcc424e3
+  AMapSearch: 314f75e9ce282b53dbf66455efa416c39f12b5b1
+  SHCMap: d05959f45a89ba60b0c3486439774cabe99e9fc5
 
 PODFILE CHECKSUM: 071382c849a4b4689054d0e892773611ff5087c9
 

@@ -1,7 +1,7 @@
 {
   "name": "SHCMap",
   "version": "0.1.0",
-  "summary": "A short description of SHCMap.",
+  "summary": "买家版高德地图的pod封装",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/578013836@qq.com/SHCMap",
   "license": {
@@ -18,5 +18,17 @@
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "SHCMap/Classes/**/*"
+  "dependencies": {
+    "AMap2DMap": [
+
+    ],
+    "AMapSearch": [
+
+    ],
+    "AMapLocation": [
+
+    ]
+  },
+  "static_framework": true,
+  "source_files": "SHCMap/*"
 }

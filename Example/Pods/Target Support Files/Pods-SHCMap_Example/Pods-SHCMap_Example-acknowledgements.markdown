@@ -1,6 +1,26 @@
 # Acknowledgements
 This application makes use of the following third party libraries:
 
+## AMap2DMap
+
+Copyright © 2014 AutoNavi. All Rights Reserved.
+
+
+## AMapFoundation
+
+Copyright © 2014 AutoNavi. All Rights Reserved.
+
+
+## AMapLocation
+
+Copyright © 2014 AutoNavi. All Rights Reserved.
+
+
+## AMapSearch
+
+Copyright © 2014 AutoNavi. All Rights Reserved.
+
+
 ## SHCMap
 
 Copyright (c) 2018 578013836@qq.com <578013836@qq.com>

@@ -7,6 +7,7 @@
 //
 
 @import UIKit;
+@import SHCMap;
 
 @interface SHCViewController : UIViewController
 
